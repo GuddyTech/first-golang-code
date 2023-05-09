@@ -4,6 +4,6 @@ import "fmt"
 
 //To print the variable type in the console
 func main() {
-	var number = 200.1;
+	number := 300;
 	fmt.Printf("%T", number);
 }
